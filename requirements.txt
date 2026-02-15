@@ -1,0 +1,17 @@
+# Data Handling & Database
+pandas
+sqlalchemy
+psycopg2-binary
+python-dotenv
+
+# API & Backend
+fastapi
+uvicorn
+requests
+pydantic
+
+# AI & Semantic Search
+openai
+
+# Frontend
+streamlit
